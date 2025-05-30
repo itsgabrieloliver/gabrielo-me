@@ -6,6 +6,12 @@ const App = () => {
           Gabriel Oliver
         </h1>
         <p class="font-medium text-neutral-400">Building cloud experiences</p>
+        <a
+          class="px-3 py-2 bg-neutral-50 rounded-lg text-neutral-950"
+          href="https://github.com/itsgabrieloliver"
+        >
+          GitHub
+        </a>
       </div>
     </>
   );
